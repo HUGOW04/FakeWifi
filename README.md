@@ -6,6 +6,31 @@ The first recorded use of the term "phishing" was in the cracking toolkit AOHell
 
 Attempts to prevent or mitigate the impact of phishing incidents include legislation, user training, public awareness, and technical security measures. Phishing awareness has become important at home and at the work place. For instance, from 2017 to 2020, phishing attacks have increased from 72% to 86% among businesses.
 
-## Screenshot
 
-![Screenshot 2022-10-08 204159](https://user-images.githubusercontent.com/54809176/194722785-29b2dc3d-94d1-45ee-bf29-df7b8e42d011.png)
+### Step 1
+```
+
+Connect to Espresso House
+
+```
+### Step 2
+
+```
+
+Write email and password
+
+```
+### Step 3
+
+```
+
+write 172.0.0.1/creds to wiew the site
+
+or
+
+Write 172.0.0.1/pass for stored passwords
+
+```
+
+
+
