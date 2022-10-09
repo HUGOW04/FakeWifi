@@ -31,6 +31,8 @@ or
 Write 172.0.0.1/pass for stored passwords
 
 ```
+## Legal warning
+Software can by use only to educationals targets. If you will use this like real virus, you could go to jail. Author do not responsible for the misuse of the software by others.
 
 
 
