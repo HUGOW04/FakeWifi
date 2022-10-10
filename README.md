@@ -10,7 +10,7 @@ Attempts to prevent or mitigate the impact of phishing incidents include legisla
 ### Step 1
 ```
 
-Connect to Espresso House
+Connect to Free Wifi
 
 ```
 ### Step 2
